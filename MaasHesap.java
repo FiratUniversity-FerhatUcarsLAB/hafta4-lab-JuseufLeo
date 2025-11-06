@@ -1,4 +1,3 @@
-
 /*
  * Ad Soyad: Yusuf Aslan
  * Ogrenci No: 250541068
